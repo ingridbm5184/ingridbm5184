@@ -1,4 +1,3 @@
-![Header]("C:\Users\ibm51\Downloads\github-header-image (2).png")
 
 # 💫 About Me:
 🔭 Bilingual QA Engineer with experience in health sector. Skilled in agile workflows
