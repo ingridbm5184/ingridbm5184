@@ -1,3 +1,4 @@
+![Header](https://github.com/ingridbm5184/ingridbm5184/blob/8b49f4d6d6d367d6710f11aa81dc1ad184198ece/github-header-image%20(2).png)
 
 # 💫 About Me:
 🔭 Bilingual QA Engineer with experience in health sector. Skilled in agile workflows
