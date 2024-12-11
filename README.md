@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 Currently, I’m transitioning into QA Engineering by attending a bootcamp with TripleTen.
+🔭 Bilingual QA Engineer with experience in health sector. Skilled in agile workflows
+and tools like JIRA, Postman, API, and SQL. Detail-oriented and focused on delivering high-quality
+products.
 
 
 ## 🌐 Socials:
