@@ -1,4 +1,4 @@
-![Header](https://github.com/ingridbm5184/ingridbm5184/blob/8b49f4d6d6d367d6710f11aa81dc1ad184198ece/github-header-image%20(3).png)
+![Header]([https://github.com/ingridbm5184/ingridbm5184/blob/main/github-header-image%20(3).png]
 
 # 💫 About Me:
 🔭 Bilingual Medical Technologist in Radiology. Currently, I’m transitioning into QA Engineering by attending a bootcamp with TripleTen, skilled in agile workflows
