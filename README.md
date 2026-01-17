@@ -1,16 +1,24 @@
-![Header](https://github.com/ingridbm5184/ingridbm5184/blob/main/INGRID%20BERNAL%20%20QA%20ENGINNER%20(5).png)
+![Header](https://github.com/ingridbm5184/ingridbm5184/blob/main/INGRID%20BERNAL%20%20RADIOLOGY%20ANNOTATION%20(1).png)
 
-# 💫 About Me:
-🔭 Bilingual Medical Technologist in Radiology. Currently, I’m transitioning into QA Engineering by attending a bootcamp with TripleTen, skilled in agile workflows
-and tools like JIRA, Postman, API, and SQL. Detail-oriented and focused on delivering high-quality products.
+# 💫 About Me
+🔭 Bilingual Radiology Technologist with 16+ years of experience in X-ray, CT, MRI & Mammography.  
+Currently transitioning to **Medical Image Annotation** and AI in Healthcare through hands-on practice with CVAT and public datasets (NIH Chest X-ray, etc.).  
+Detail-oriented, clinically accurate, and passionate about improving diagnostic imaging with technology.
 
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingrid-bernal-2bb484341/)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingrid-bernal-2bb484341/) 
+# 💻 Tech & Clinical Stack
+![Radiology](https://img.shields.io/badge/Radiology-%23FF6B6B.svg?style=for-the-badge&logo=medical&logoColor=white)  
+![CVAT](https://img.shields.io/badge/CVAT-Annotation%20Tool-blue?style=for-the-badge)  
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-# 💻 Tech Stack:
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ingridbm5184&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ingridbm5184&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ingridbm5184&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -24,7 +32,12 @@ and tools like JIRA, Postman, API, and SQL. Detail-oriented and focused on deliv
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ingridbm5184&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 🩻 Featured Portfolio
+**Chest X-ray Annotation Portfolio**  
+[![View Portfolio](https://img.shields.io/badge/See%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ingridbm5184/medical-image-annotation-portfolio)  
+15 annotated images (pathologies + artifacts like pacemaker, CVC, sternal wires)
+
+Próximamente: Mamografía, CT y RM portfolios
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ingridbm5184&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
