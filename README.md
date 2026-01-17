@@ -1,4 +1,4 @@
-![Ingrid Bernal - Radiology Annotation Portfolio](banner_profile.png)
+![Ingrid Bernal - Radiology Annotation Portfolio](banner_profile1.png)
 
 # 👩‍⚕️ About Me
 ☢️ Bilingual Radiology Technologist with 16+ years of experience in X-ray, CT, MRI & Mammography.  
