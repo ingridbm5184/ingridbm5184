@@ -8,7 +8,7 @@ Detail-oriented, clinically accurate, and passionate about improving diagnostic 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingrid-bernal-2bb484341/)
 
-# 💻 Tech & Clinical Stack
+# 💻🚑 Tech & Clinical Stack
 ![Radiology](https://img.shields.io/badge/Radiology-%23FF6B6B.svg?style=for-the-badge&logo=medical&logoColor=white)  
 ![CVAT](https://img.shields.io/badge/CVAT-Annotation%20Tool-blue?style=for-the-badge)  
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
