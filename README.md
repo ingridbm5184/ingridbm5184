@@ -39,7 +39,7 @@ Detail-oriented, clinically accurate, and passionate about improving diagnostic 
 [![View Portfolio](https://img.shields.io/badge/See%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ingridbm5184/medical-image-annotation-portfolio)  
 15 annotated images (pathologies + artifacts like pacemaker, CVC, sternal wires)
 
-🩻 Coming soon: Mamografía, CT y RM portfolios
+🩻 Coming soon: Mammography, CT y RMI portfolios
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ingridbm5184&icon=0&color=0)](https://visitcount.itsvg.in)
