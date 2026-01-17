@@ -10,7 +10,9 @@ Detail-oriented, clinically accurate, and passionate about improving diagnostic 
 
 # 💻🚑 Tech & Clinical Stack
 ![Radiology](https://img.shields.io/badge/Radiology-%23FF6B6B.svg?style=for-the-badge&logo=medical&logoColor=white)  
-![CVAT](https://img.shields.io/badge/CVAT-Annotation%20Tool-blue?style=for-the-badge)  
+![CVAT](https://img.shields.io/badge/CVAT-Annotation%20Tool-blue?style=for-the-badge)
+![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-Radiology-green?style=for-the-badge)
+![NIH Chest X-ray](https://img.shields.io/badge/Dataset-NIH%20Chest%20X--ray-orange?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
@@ -27,7 +29,7 @@ Detail-oriented, clinically accurate, and passionate about improving diagnostic 
 ![](https://github-profile-trophy.vercel.app/?username=ingridbm5184&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ingridbm5184&limit=5&theme=dark&combine_all_yearly_contributions=true)
