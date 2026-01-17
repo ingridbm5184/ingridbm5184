@@ -1,4 +1,4 @@
-![Header](https://github.com/ingridbm5184/ingridbm5184/blob/main/INGRID%20BERNAL%20%20RADIOLOGY%20ANNOTATION%20(1).png)
+![Header](banner_profile.png)
 
 # 👩‍⚕️ About Me
 ☢️ Bilingual Radiology Technologist with 16+ years of experience in X-ray, CT, MRI & Mammography.  
