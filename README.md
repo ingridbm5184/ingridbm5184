@@ -1,7 +1,7 @@
 ![Header](https://github.com/ingridbm5184/ingridbm5184/blob/main/INGRID%20BERNAL%20%20RADIOLOGY%20ANNOTATION%20(1).png)
 
-# 💫 About Me
-🔭 Bilingual Radiology Technologist with 16+ years of experience in X-ray, CT, MRI & Mammography.  
+# 👩‍⚕️ About Me
+☢️ Bilingual Radiology Technologist with 16+ years of experience in X-ray, CT, MRI & Mammography.  
 Currently transitioning to **Medical Image Annotation** and AI in Healthcare through hands-on practice with CVAT and public datasets (NIH Chest X-ray, etc.).  
 Detail-oriented, clinically accurate, and passionate about improving diagnostic imaging with technology.
 
@@ -32,12 +32,12 @@ Detail-oriented, clinically accurate, and passionate about improving diagnostic 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ingridbm5184&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🩻 Featured Portfolio
+### 🫁 Featured Portfolio
 **Chest X-ray Annotation Portfolio**  
 [![View Portfolio](https://img.shields.io/badge/See%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ingridbm5184/medical-image-annotation-portfolio)  
 15 annotated images (pathologies + artifacts like pacemaker, CVC, sternal wires)
 
-Próximamente: Mamografía, CT y RM portfolios
+🩻 Coming soon: Mamografía, CT y RM portfolios
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ingridbm5184&icon=0&color=0)](https://visitcount.itsvg.in)
