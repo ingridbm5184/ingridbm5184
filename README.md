@@ -39,6 +39,12 @@ Detail-oriented, clinically accurate, and passionate about improving diagnostic 
 [![View Portfolio](https://img.shields.io/badge/See%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ingridbm5184/medical-image-annotation-portfolio)  
 15 annotated images (pathologies + artifacts like pacemaker, CVC, sternal wires)
 
+### 📘 Annotation Methodology
+**Clinical Labeling Standards & Guidelines**
+[![View Guidelines](https://img.shields.io/badge/View%20Guidelines-0078D4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/ingridbm5184/medical-image-annotation-portfolio/blob/main/annotation-guidelines.md)
+
+Documentation of clinical criteria, bounding box protocols, and edge-case handling for Radiology AI.
+
 🩻 Coming soon: Mammography, CT y RMI portfolios
 
 ---
