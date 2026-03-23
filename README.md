@@ -2,8 +2,8 @@
 
 # 👩‍⚕️ Ingrid Bernal
 
-Radiology Technologist | 16+ Years in X-ray/CT/MRI/Mammography  
-Transitioning to **Medical Image Annotation • 3D Slicer Segmentation • AI Data Labeling & Training • Clinical SME**  
+Experienced Radiology Technologist (16+ years in diagnostic imaging: X-ray, CT, MRI, Mammography).  
+Leveraging clinical precision and domain expertise in medical image annotation, AI training datasets and volumetric segmentation (3D Slicer).
 Remote - Chile | Open to Worldwide Freelance/Contract
 
 ## 🌐 Connect
