@@ -28,7 +28,6 @@ Remote - Chile | Open to Worldwide Freelance/Contract
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ingridbm5184&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
 ## 🫁 Featured Portfolio
 **Medical Image Annotation Portfolio**  
 High-precision labeling of pathologies and artifacts for AI training in healthcare.  
