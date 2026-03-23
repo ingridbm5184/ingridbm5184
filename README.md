@@ -4,6 +4,7 @@
 
 Experienced Radiology Technologist (16+ years in diagnostic imaging: X-ray, CT, MRI, Mammography).  
 Leveraging clinical precision and domain expertise in medical image annotation, AI training datasets and volumetric segmentation (3D Slicer).
+
 Remote - Chile | Open to Worldwide Freelance/Contract
 
 ## 🌐 Connect
