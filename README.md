@@ -2,9 +2,8 @@
 
 # 👩‍⚕️ Ingrid Bernal
 
-Experienced Radiology Technologist (16+ years in diagnostic imaging: X-ray, CT, MRI, Mammography).  
-Leveraging clinical precision and domain expertise in medical image annotation, AI training datasets and volumetric segmentation (3D Slicer).
-
+Radiology Technologist with 16+ years in diagnostic imaging (X-ray, CT, MRI, Mammography).  
+Leveraging clinical precision and domain expertise in medical image annotation, AI training datasets and volumetric segmentation (3D Slicer).  
 Remote - Chile | Open to Worldwide Freelance/Contract
 
 ## 🌐 Connect
@@ -28,18 +27,19 @@ Remote - Chile | Open to Worldwide Freelance/Contract
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ingridbm5184&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
 ## 🫁 Featured Portfolio
 **Medical Image Annotation Portfolio**  
 High-precision labeling of pathologies and artifacts for AI training in healthcare.  
 - Chest X-ray – 15 images  
 - Mammography – 9 images  
-- CT – 8 images  
+- CT – 8 images (axial views)  
 - RM – 3D volumetric segmentation example (brain tumor with 3D Slicer)
 
 [![View Portfolio](https://img.shields.io/badge/See%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ingridbm5184/medical-image-annotation-portfolio)
 
 **Annotation Methodology & Guidelines**  
-Clinical criteria, bounding box/poligon protocols, edge-case handling  
+Clinical criteria, polygon-preferred protocols, edge-case handling  
 [![View Guidelines](https://img.shields.io/badge/View%20Guidelines-0078D4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/ingridbm5184/medical-image-annotation-portfolio/blob/main/annotation-guidelines.md)
 
 ## ☢️ Open to Opportunities
